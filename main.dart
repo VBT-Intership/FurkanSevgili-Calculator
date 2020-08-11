@@ -3,7 +3,7 @@
 Furkan Sevgili - Ağustos 2020
 
 Bu program komut satırında string olarak girilen bir matematiksel işlemi hesaplar ve sonucu ekrana yazdırır.
-Verilen stringler operatörlerine ve sayılarına ayrılıp ayrı iki listeye yazılır.
+Verilen stringler regular expression yardımı ile operatörlerine ve sayılarına ayrılıp ayrı iki listeye yazılır.
 Daha sonra bu listelerin indexlerinden yararlanarak bir while döngüsü içinde işlemleri yapar.
 Üs ve parantez tanımaz.
 
